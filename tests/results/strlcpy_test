@@ -1,0 +1,28 @@
+WORD: AAAA
+RESULT: AAAA
+RETURN: 4
+###########
+WORD: BBBB
+RESULT: BBB
+RETURN: 4
+###########
+WORD: CCCC
+RESULT: BBB
+RETURN: 4
+###########
+WORD: CCCC
+RESULT: 
+RETURN: 4
+###########
+WORD: 
+RESULT: 
+RETURN: 0
+###########
+WORD: 
+RESULT: 
+RETURN: 0
+###########
+WORD: 
+RESULT: 
+RETURN: 0
+###########

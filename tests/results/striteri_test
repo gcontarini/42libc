@@ -1,0 +1,30 @@
+INPUT: TEXTO
+RESULT: TFZWS
+#######################
+INPUT: TEXTO LONGO LONG MESMO COM #$@#%
+RESULT: TFZWS%RVVPY+X\\V0^Wfad6Zgf:>@]AD
+#######################
+INPUT:  
+RESULT:  
+#######################
+INPUT: 
+RESULT: 
+#######################
+INPUT: (null)
+RESULT: (null)
+#######################
+INPUT: TFZWS
+RESULT: TFZWS
+#######################
+INPUT: TFZWS%RVVPY+X\\V0^Wfad6Zgf:>@]AD
+RESULT: TFZWS%RVVPY+X\\V0^Wfad6Zgf:>@]AD
+#######################
+INPUT:  
+RESULT:  
+#######################
+INPUT: 
+RESULT: 
+#######################
+INPUT: (null)
+RESULT: (null)
+#######################

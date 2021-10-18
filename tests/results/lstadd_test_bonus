@@ -1,0 +1,6 @@
+CONTENT: 5 7 9 
+NEW CONTENT: 10 5 7 9 
+#################
+NO SEGFAULT CONTENT: 5 7 9 
+EQUAL CONTENT: 5 7 9 
+#################

@@ -1,0 +1,48 @@
+INPUT: TEXTO TEXTAO GIGANTE LOOK FOR GIGANTE IN 21
+RESULT: GIGANTE
+##############################
+INPUT: TEXTO TEXTAO GIGANTE LOOK FOR GIGANTE IN 20
+RESULT: GIGANTE
+##############################
+INPUT: TEXTO TEXTAO GIGANTE LOOK FOR GIGANTE IN 5
+RESULT: (null)
+##############################
+INPUT: TEXTO TEXTAO GIGANTE LOOK FOR GIGANTE IN 0
+RESULT: (null)
+##############################
+INPUT:  LOOK FOR GIGANTE IN 1
+RESULT: (null)
+##############################
+INPUT:  LOOK FOR GIGANTE IN 0
+RESULT: (null)
+##############################
+INPUT:  LOOK FOR  IN 0
+RESULT: 
+##############################
+INPUT:  LOOK FOR  IN 1
+RESULT: 
+##############################
+INPUT: TEXTO LOOK FOR  IN 0
+RESULT: TEXTO
+##############################
+INPUT: TEXTO LOOK FOR  IN 1
+RESULT: TEXTO
+##############################
+INPUT: (null) LOOK FOR  IN 0
+RESULT: (null)
+##############################
+INPUT: (null) LOOK FOR  IN 1
+RESULT: (null)
+##############################
+INPUT: (null) LOOK FOR TEXTO IN 0
+RESULT: (null)
+##############################
+INPUT: ABCDEFGH LOOK FOR C IN 8
+RESULT: CDEFGH
+##############################
+INPUT: ABCDEFGH LOOK FOR C IN 3
+RESULT: CDEFGH
+##############################
+INPUT: ABCDEFGH LOOK FOR C IN 2
+RESULT: (null)
+##############################

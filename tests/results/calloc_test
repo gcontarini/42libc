@@ -1,0 +1,30 @@
+INPUT: 5 of size 1
+RESULT: 0 0 0 0 0 
+########################
+INPUT: 5 of size 4
+RESULT: 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+########################
+INPUT: 5 of size 8
+RESULT: 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+########################
+INPUT: 0 of size 1
+RESULT: 
+########################
+INPUT: 0 of size 4
+RESULT: 
+########################
+INPUT: 1 of size 1
+RESULT: 0 
+########################
+INPUT: 1 of size 4
+RESULT: 0 0 0 0 
+########################
+INPUT: 0 of size 0
+RESULT: 
+########################
+INPUT: 1 of size 0
+RESULT: 
+########################
+INPUT: 5 of size 0
+RESULT: 
+########################

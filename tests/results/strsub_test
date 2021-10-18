@@ -1,0 +1,33 @@
+INPUT: TEXTO - at 1 with 4
+RESULT: EXTO
+#############################
+INPUT: TEXTO - at 1 with 5
+RESULT: EXTO
+#############################
+INPUT: TEXTO - at 0 with 5
+RESULT: TEXTO
+#############################
+INPUT: TEXTO - at 0 with 6
+RESULT: TEXTO
+#############################
+INPUT: TEXTO - at 6 with 6
+RESULT: 
+#############################
+INPUT: TEXTO - at 6 with 0
+RESULT: (null)
+#############################
+INPUT:  - at 0 with 0
+RESULT: (null)
+#############################
+INPUT:  - at 0 with 1
+RESULT: 
+#############################
+INPUT: (null) - at 0 with 1
+RESULT: (null)
+#############################
+INPUT: (null) - at 0 with 0
+RESULT: (null)
+#############################
+INPUT: (null) - at 1 with 0
+RESULT: (null)
+#############################

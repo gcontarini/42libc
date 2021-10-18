@@ -1,0 +1,7 @@
+third: 9
+second: 7
+first: 5
+---> Apply plus_one function <---
+third: 10
+second: 8
+first: 6

@@ -1,0 +1,14 @@
+START LIST: -6-8-10
+END LIST
+---> Apply map to create new lst <---
+START LIST: -7-9-11
+END LIST
+---> Original unchaged lst <---
+START LIST: -6-8-10
+END LIST
+---> NULL del pointer lst <---
+START LIST: -7-9-11
+END LIST
+---> Allocation error during execution
+CORRECT CLEARED
+---> NULL lst <---

@@ -1,0 +1,30 @@
+#### TEXTO ####
+RESULT: TEXTO
+############
+#### AA ####
+RESULT: AA
+############
+####  ####
+RESULT: 
+############
+####  ####
+RESULT: 
+############
+####  ####
+RESULT: 
+############
+#### (null) ####
+RESULT: 
+############
+#### Overlap test ####
+RESULT: abcd
+ORIGINAL: abcabcd
+############
+#### Overlap test ####
+RESULT: 0 1 2 3 
+ORIGINAL: 0 1 2 0 1 2 3 
+############
+#### Overlap heap test ####
+RESULT: 0 1 2 3 4 
+ORIGINAL: 0 1 2 3 0 1 2 3 4 0 
+############

@@ -1,0 +1,48 @@
+COMP 5: TEXTO - TEXTO
+RETURN: 0
+###########################
+COMP 10: TEXTO - TEXTO
+RETURN: 0
+###########################
+COMP 5: TEXTo - TEXTO
+RETURN: 32
+###########################
+COMP 4: TEXTo - TEXTO
+RETURN: 0
+###########################
+COMP 1: TAAAAA - TBBBBB
+RETURN: 0
+###########################
+COMP 2: TAAAAA - TBBBBB
+RETURN: -1
+###########################
+COMP 0: TEXTo - TEXTO
+RETURN: 0
+###########################
+COMP 0: TEXTO - TEXTO
+RETURN: 0
+###########################
+COMP 0: AAAAA - BBBBB
+RETURN: 0
+###########################
+COMP 1:  - TEXTO
+RETURN: -84
+###########################
+COMP 0:  - TEXTO
+RETURN: 0
+###########################
+COMP 0:  - 
+RETURN: 0
+###########################
+COMP 1:  - 
+RETURN: 0
+###########################
+COMP 2:  - 
+RETURN: 0
+###########################
+COMP 0: (null) - AAAA
+RETURN: 0
+###########################
+COMP 0: (null) - (null)
+RETURN: 0
+###########################

@@ -1,0 +1,39 @@
+INPUT: www.teste.com - remove w. 
+RESULT: teste.com
+#########################
+INPUT: AAATEXTOAAA - remove Aa
+RESULT: TEXTO
+#########################
+INPUT: AAATEXTOAAA - remove AXTO
+RESULT: E
+#########################
+INPUT: AAATEXTOBBB - remove AXTOB
+RESULT: E
+#########################
+INPUT: AAATEXTOBBB - remove AXB
+RESULT: TEXTO
+#########################
+INPUT:    OK    a - remove a 
+RESULT: OK
+#########################
+INPUT: .. .TEXTO.. . - remove . 
+RESULT: TEXTO
+#########################
+INPUT: .. .TEXTO.. . - remove 
+RESULT: .. .TEXTO.. .
+#########################
+INPUT: .. .TEXTO.. . - remove (null)
+RESULT: .. .TEXTO.. .
+#########################
+INPUT:  - remove #.
+RESULT: 
+#########################
+INPUT: (null) - remove #.
+RESULT: (null)
+#########################
+INPUT:  - remove 
+RESULT: 
+#########################
+INPUT: (null) - remove (null)
+RESULT: (null)
+#########################

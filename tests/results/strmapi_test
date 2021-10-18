@@ -1,0 +1,30 @@
+INPUT: TEXTO
+RESULT: TFZWS
+####################
+INPUT: TEXTO MAIS LONGO
+RESULT: TFZWS%SHQ\*W[[U^
+####################
+INPUT:  
+RESULT:  
+####################
+INPUT: 
+RESULT: 
+####################
+INPUT: (null)
+RESULT: (null)
+####################
+INPUT FOR NULL: TEXTO
+RESULT: (null)
+####################
+INPUT FOR NULL: TEXTO MAIS LONGO
+RESULT: (null)
+####################
+INPUT FOR NULL:  
+RESULT: (null)
+####################
+INPUT FOR NULL: 
+RESULT: (null)
+####################
+INPUT FOR NULL: (null)
+RESULT: (null)
+####################

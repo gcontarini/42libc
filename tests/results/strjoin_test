@@ -1,0 +1,27 @@
+INPUTS: UM TEXTO LONGO - OUTRO TEXTO
+RESULT: UM TEXTO LONGOOUTRO TEXTO
+######################
+INPUTS:  - TEXTO
+RESULT: TEXTO
+######################
+INPUTS: TEXTO - 
+RESULT: TEXTO
+######################
+INPUTS:  - 
+RESULT: 
+######################
+INPUTS: (null) - 
+RESULT: 
+######################
+INPUTS: (null) - TEXTO
+RESULT: TEXTO
+######################
+INPUTS:  - (null)
+RESULT: 
+######################
+INPUTS: OUTRO - (null)
+RESULT: OUTRO
+######################
+INPUTS: (null) - (null)
+RESULT: (null)
+######################
